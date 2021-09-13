@@ -1,0 +1,13 @@
+body{
+	/*background: url(../img/background/background4.jpg);*/
+	/*background-color: green;*/
+	overflow: hidden;
+}
+
+.min-h-screen{
+	background: url(../img/background/background8.jpg);
+}
+
+button{
+	background-color: rgb(12, 67, 0);
+}
